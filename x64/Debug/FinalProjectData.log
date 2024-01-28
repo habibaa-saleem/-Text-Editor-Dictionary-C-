@@ -1,0 +1,8 @@
+﻿  final_project_Data.cpp
+C:\Users\DELL\source\repos\FinalProjectData\FinalProjectData\final_project_Data.cpp(431,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\source\repos\FinalProjectData\FinalProjectData\final_project_Data.cpp(354,14): warning C4101: 'arr': unreferenced local variable
+C:\Users\DELL\source\repos\FinalProjectData\FinalProjectData\final_project_Data.cpp(873,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\source\repos\FinalProjectData\FinalProjectData\final_project_Data.cpp(516): warning C4715: 'tree::input': not all control paths return a value
+C:\Users\DELL\source\repos\FinalProjectData\FinalProjectData\final_project_Data.cpp(349): warning C4715: 'tree::giveSuggestion': not all control paths return a value
+C:\Users\DELL\source\repos\FinalProjectData\FinalProjectData\final_project_Data.cpp(217): warning C4715: 'tree::search': not all control paths return a value
+  FinalProjectData.vcxproj -> C:\Users\DELL\source\repos\FinalProjectData\x64\Debug\FinalProjectData.exe
